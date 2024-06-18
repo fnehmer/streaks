@@ -1,2 +1,2 @@
 # streaks
-cli to track personal steaks
+cli to track personal streaks
